@@ -550,6 +550,7 @@ img {
   display: flex;
 }
 .footer-button {
+  cursor: pointer;
   width: 200px;
   height: 50px;
   background: #2196f3;
@@ -700,6 +701,7 @@ img {
   border-radius: 50%;
   padding: 5px 4px 6px 4px;
   outline: none;
+  cursor: pointer;
 
   background: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0.1);
@@ -829,6 +831,7 @@ img {
   display: flex;
   border-radius: 3px;
   margin-right: 7px;
+  cursor: pointer;
   align-items: center;
   justify-content: center;
   transition-duration: 250ms;
